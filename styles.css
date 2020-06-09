@@ -1,0 +1,77 @@
+body {
+    font-family: 'Poppins';
+    color: #4D4F62;
+    font-style: 1.3em;
+    padding: 6rem 16.5rem;
+    max-width: 100vw;    
+}
+
+.main-header {
+    text-align: center;
+    max-width: 54rem;
+    margin: auto;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    grid-template-rows: repeat(5, 1fr);
+    margin-top: 6rem;
+}
+
+.card {
+    background-color: #fff;
+    padding: 2rem 1.5rem;
+    max-width: 35rem;
+    min-height: 25rem;
+    box-shadow: 0 2rem 4rem rgba(84,158,242,.3);
+    margin: 2rem;
+    border-radius: .5rem;
+}
+
+.supervisor {
+    border-top: 0.5rem solid #44D3D2;
+    grid-row-start: 2; 
+    grid-row-end: 4;
+}
+
+.team {
+    border-top: 0.5rem solid #EA5454;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+.karma {
+    border-top: 0.5rem solid #FCAE4A;
+    grid-row-start: 3; 
+    grid-row-end: 5;   
+}
+
+.calculator {
+    border-top: 0.5rem solid #549EF2;
+    grid-row-start: 2; 
+    grid-row-end: 4;
+}
+
+img {
+   margin-left: auto;
+   padding: 2rem 2rem;
+}
+
+
+h1 {
+    font-weight: lighter;
+    font-size: 3.6rem;
+}
+
+h2 {
+    font-size: 3.6rem;
+}
+h3 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.5rem;
+    opacity: 50%;
+}
