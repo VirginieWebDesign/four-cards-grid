@@ -1,0 +1,19 @@
+<svg id="_045-software" data-name="045-software" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <path id="Path" d="M64,0V41.25l-3.75,3.875H3.75L0,41.25V0Z" fill="#474f54"/>
+  <path id="Path-2" data-name="Path" d="M32,0V41.25l-3.75,3.875H0V0Z" transform="translate(32)" fill="#32393f"/>
+  <path id="Path-3" data-name="Path" d="M0,0H18.75V11.25H0Z" transform="translate(22.625 50.875)" fill="#dadae5"/>
+  <path id="Path-4" data-name="Path" d="M0,0H9.375V11.25H0Z" transform="translate(32 50.875)" fill="#c9c9d3"/>
+  <path id="Path-5" data-name="Path" d="M0,0H64V11.5H0Z" transform="translate(0 41.25)" fill="#efeff4"/>
+  <path id="Path-6" data-name="Path" d="M0,0H32V11.5H0Z" transform="translate(32 41.25)" fill="#dadae5"/>
+  <path id="Path-7" data-name="Path" d="M0,0H33.75V3.75H0Z" transform="translate(15.125 60.25)" fill="#efeff4"/>
+  <path id="Path-8" data-name="Path" d="M0,0H16.875V3.75H0Z" transform="translate(32 60.25)" fill="#dadae5"/>
+  <path id="Shape" d="M0,13.125A13.125,13.125,0,1,1,13.125,26.25,13.141,13.141,0,0,1,0,13.125Z" transform="translate(7.625 7.5)" fill="#549ef2"/>
+  <g id="Group" transform="translate(37.625 7.5)">
+    <path id="Path-9" data-name="Path" d="M0,0H11.375V3.75H0Z" transform="translate(7.5)" fill="#377fd2"/>
+    <path id="Path-10" data-name="Path" d="M0,0H3.75V3.75H0Z" fill="#377fd2"/>
+    <path id="Path-11" data-name="Path" d="M0,0H11.375V3.75H0Z" transform="translate(7.5 15)" fill="#377fd2"/>
+    <path id="Path-12" data-name="Path" d="M0,0H3.75V3.75H0Z" transform="translate(0 15)" fill="#377fd2"/>
+    <path id="Path-13" data-name="Path" d="M0,0H18.875V3.75H0Z" transform="translate(0 7.5)" fill="#377fd2"/>
+    <path id="Path-14" data-name="Path" d="M0,0H18.875V3.75H0Z" transform="translate(0 22.5)" fill="#377fd2"/>
+  </g>
+</svg>
